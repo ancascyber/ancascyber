@@ -7,6 +7,13 @@ These days I'm focused on the intersection of cloud infrastructure and automatio
 Outside of work, I run a home lab with a bunch of devices I've Frankensteined together where I tinker with the things I don't get to break at work. <br />
 Always open to connecting with others in the cloud and infrastructure space.
 
+My Portfolio <br />
+https://anthonytechblog.com/
+
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/anthony-castleberry-it)
+
+
+
 <!--
 **ancascyber/ancascyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
