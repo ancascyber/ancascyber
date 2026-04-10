@@ -1,4 +1,11 @@
 ## Hi there 👋
+This will serve as my Read me file / blog. <br />
+I've spent over a decade working across enterprise infrastructure — designing, managing, and troubleshooting the systems that keep businesses running. My background spans cloud, on-prem, and hybrid environments, with hands-on work in AWS, Azure, Windows, Linux, Terraform, and Python.
+
+These days I'm focused on the intersection of cloud infrastructure and automation — building things that are scalable, repeatable, and actually make operational life easier. I'm also keeping a close eye on where AI fits into modern infrastructure workflows.
+
+Outside of work, I run a home lab with a bunch of devices I've Frankensteined together where I tinker with the things I don't get to break at work. <br />
+Always open to connecting with others in the cloud and infrastructure space.
 
 <!--
 **ancascyber/ancascyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
